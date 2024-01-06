@@ -1,2 +1,3 @@
 # MERN-todo
- MERN todo list app
+ Title: MERN todo list app
+ Author: Nick Hoo
