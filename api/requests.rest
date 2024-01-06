@@ -1,0 +1,18 @@
+GET http://localhost:3001/todos
+
+###
+
+POST http://localhost:3001/todo/new
+Content-Type: application/json
+
+{
+    "text": "Play with Eddie 2"
+}
+
+###
+
+DELETE http://localhost:3001/todo/delete/
+
+###
+
+PUT http://localhost:3001/todo/complete/6599e21f46a864d4004ee471
